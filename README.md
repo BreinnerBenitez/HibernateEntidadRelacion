@@ -51,17 +51,16 @@ ___
 
 
 ___
-### 3)  ingreso de datos en las entidades
-## 
-![imagencarpeta](img/3ingresodedatos.JPG)
+### 3)  ingreso de datos en las entidades con conexion a base de datos
+
+![imagencarpeta](img/5.JPG)
+
+___
+
+## se realizan tambien eliminacion de datos 
 
 
-## se realizan tambien consultas Read HQL 
+![imagencarpeta](img/6imagen.JPG)
 
 
-![imagencarpeta](img/4consultadatos.JPG)
 
-
-## consultas Update HQL 
-
-![imagencarpeta](img/5HQLActualizar.JPG)
