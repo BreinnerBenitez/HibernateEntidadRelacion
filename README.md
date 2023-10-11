@@ -64,7 +64,7 @@ ___
 
 
 ### 4) se actualiza archivos se encuentran en paquetebidirecional se agrega etiqueta con mapeo en detalles_Cliente
-### para que sea biderecional 
+### para que sea biderecional (el mapeo apunta a objeto detalleCliente creado en la clase Cliente  )
 
 ![imagencarpeta](img/biderecional/1detallecliente.JPG)
 
