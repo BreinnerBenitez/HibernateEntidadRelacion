@@ -30,7 +30,7 @@ ___
 ![imagencarpeta](img/2imge.JPG)
 ___
 esta parte del codigo y etiquetas indican la clave foranea de la entidad hija en la base de datos como tambien las modificaciones que afectan entre tablas 
-
+unidericional: cliente->detalles 
 ~~~
 @OneToOne(cascade=CascadeType.ALL)
 	@JoinColumn(name="id_Detalle")
