@@ -63,4 +63,25 @@ ___
 ![imagencarpeta](img/6imagen.JPG)
 
 
+### 4) se actualiza archivos se encuentran en paquetebidirecional se agrega etiqueta con mapeo en detalles_Cliente
+### para que sea biderecional 
+
+![imagencarpeta](img/biderecional/1detallecliente.JPG)
+
+___
+
+## se agreaga toString para ver objetos en la clase nueva ObtenerCliente.java
+
+
+![imagencarpeta](img/biderecional/3seagrega.JPG)
+
+___
+
+## clase nueva ObtenerCliente.java trae informacion de entidad detalles  mas las del cliente,  Bidirecional <==>
+
+
+![imagencarpeta](img/biderecional/2clase.JPG)
+
+
+
 
