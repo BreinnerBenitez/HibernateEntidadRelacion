@@ -51,7 +51,7 @@ ___
 
 
 ___
-### 3)  ingreso de datos en las entidades con conexion a base de datos
+### 3)  ingreso de datos en las entidades con conexion a base de datos desde java hibernate
 
 ![imagencarpeta](img/5.JPG)
 
